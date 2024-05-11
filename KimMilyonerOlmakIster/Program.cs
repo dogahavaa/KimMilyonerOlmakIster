@@ -10,6 +10,8 @@ namespace KimMilyonerOlmakIster
     {
         static void Main(string[] args)
         {
+            // Doğa Hava
+
             Oyun oyun = new Oyun();
 
             oyun.SoruEkle("Hangi gezegen bir gezegendir", new string[] { "Gezegen", "Gezemeyen", "Gezmek İstemeyen", "G" }, "D", 3);
@@ -19,8 +21,7 @@ namespace KimMilyonerOlmakIster
             oyun.SoruEkle("Milyonluk soru", new string[] { "Sen 300 milyon", "milyar", "sen ne yaptın", "bi susar mısın lo" }, "D", 1);
 
             
-
-
+            
             oyun.SoruGoster();
         }
     }

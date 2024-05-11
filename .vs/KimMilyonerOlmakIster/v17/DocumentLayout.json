@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|c:\\users\\dogah\\onedrive\\belgeler\\github\\kimmilyonerolmakister\\kimmilyonerolmakister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|solutionrelative:kimmilyonerolmakister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|c:\\users\\dogah\\onedrive\\belgeler\\github\\kimmilyonerolmakister\\kimmilyonerolmakister\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|solutionrelative:kimmilyonerolmakister\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|c:\\users\\dogah\\onedrive\\belgeler\\github\\kimmilyonerolmakister\\kimmilyonerolmakister\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ABF885-EC9C-4625-9A78-0E7F4B02C41D}|KimMilyonerOlmakIster\\KimMilyonerOlmakIster.csproj|solutionrelative:kimmilyonerolmakister\\soru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Oyun.cs",
+              "RelativeDocumentMoniker": "KimMilyonerOlmakIster\\Oyun.cs",
+              "ToolTip": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Oyun.cs",
+              "RelativeToolTip": "KimMilyonerOlmakIster\\Oyun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:46:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Soru.cs",
+              "DocumentMoniker": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Soru.cs",
+              "RelativeDocumentMoniker": "KimMilyonerOlmakIster\\Soru.cs",
+              "ToolTip": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Soru.cs",
+              "RelativeToolTip": "KimMilyonerOlmakIster\\Soru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:46:43.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Program.cs",
+              "RelativeDocumentMoniker": "KimMilyonerOlmakIster\\Program.cs",
+              "ToolTip": "C:\\Users\\dogah\\OneDrive\\Belgeler\\GitHub\\KimMilyonerOlmakIster\\KimMilyonerOlmakIster\\Program.cs",
+              "RelativeToolTip": "KimMilyonerOlmakIster\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:46:40.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
