@@ -1,0 +1,7 @@
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe.config
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.AssemblyReference.cache
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.exe
+C:\Users\dogah\source\repos\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\Debug\KimMilyonerOlmakIster.pdb
